@@ -1,0 +1,28 @@
+{
+  "name": "Albumus Audio Compiler",
+  "short_name": "Albumus Audio Compiler",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#555555",
+  "theme_color": "#555555",
+  "description": "Compiled in harmony.<br>Delivered with purpose.",
+  "icons": [
+    {
+      "src": "/asset/image/favicon/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/asset/image/favicon/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/asset/image/favicon/favicon-196.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
