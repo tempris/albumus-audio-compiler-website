@@ -2,26 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         
-        <loc>https://www.staticwebsitecompiler.com/about.html</loc>
+        <loc>https://albumus.cureinteractive.com/about</loc>
     
         
-        <lastmod>2025-05-08T18:56:42.828Z</lastmod>
+        <lastmod>2026-02-09T04:45:01.903Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://www.staticwebsitecompiler.com/</loc>
+        <loc>https://albumus.cureinteractive.com</loc>
     
         
-        <lastmod>2025-05-08T23:08:38.217Z</lastmod>
+        <lastmod>2026-02-09T04:44:55.605Z</lastmod>
     
     </url>
     <url>
         
-        <loc>https://www.staticwebsitecompiler.com/license.html</loc>
+        <loc>https://albumus.cureinteractive.com/license</loc>
     
         
-        <lastmod>2025-05-08T18:27:55.490Z</lastmod>
+        <lastmod>2026-02-09T04:45:08.179Z</lastmod>
     
     </url>
-</urlset><!-- Built with Staticus Website Compiler 1.0.3 -->
+    <url>
+        
+        <loc>https://albumus.cureinteractive.com/wiki</loc>
+    
+        
+        <lastmod>2026-02-09T05:51:32.178Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://albumus.cureinteractive.com/wiki/config</loc>
+    
+        
+        <lastmod>2025-05-08T17:51:03.775Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://albumus.cureinteractive.com/wiki/gui</loc>
+    
+        
+        <lastmod>2025-05-08T17:51:57.926Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://albumus.cureinteractive.com/wiki/setup</loc>
+    
+        
+        <lastmod>2025-05-08T17:52:30.148Z</lastmod>
+    
+    </url>
+    <url>
+        
+        <loc>https://albumus.cureinteractive.com/wiki/terminal</loc>
+    
+        
+        <lastmod>2025-05-08T17:52:58.677Z</lastmod>
+    
+    </url>
+</urlset><!-- Built with Synticore Website Compiler 1.1.0 -->
